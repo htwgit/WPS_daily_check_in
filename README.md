@@ -25,7 +25,7 @@ WPS 有一个免费领会员的活动，关注微信小程序“我的WPS会员�
 2. 在本页面上方 Settings → Secrets 中点击 New repository secret ，Name 填写 “**SERVER_KEY**”（不带引号），Value 中填写上一步获取的 SCKEY 值。
 
 # 每 60 天需要重新激活一下
-![](https://user-images.githubusercontent.com/30107520/108630795-9f885200-74a1-11eb-85b3-7e9386f7fa05.jpg)  
+![](https://user-images.githubusercontent.com/30107520/108630795-9f885200-74a1-11eb-85b3-7e9386f7fa05.jpg  )  
 
 60 天不改动这个项目的文件，就会停掉 Action 的 workflow。
 
